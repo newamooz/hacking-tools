@@ -21,10 +21,6 @@ cd hacking-tools
 ‍‍‍‍```
 <br>
 ‍‍‍‍```
-pip install -r requirements.txt
-‍‍‍‍```
-<br>
-‍‍‍‍```
 python3 hacking-tools.py
 ‍‍‍‍```
 
