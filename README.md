@@ -13,7 +13,6 @@ This code installs the hacking tools you need very quickly**
 | openVAS     | hping3          | Bully            | apktool        | pdfcrack            |                          |
 
 ‍‍‍‍```
-<br>
 git clone https://github.com/newamooz/hacking-tools.git
 <br>
 cd hacking-tools
