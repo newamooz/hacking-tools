@@ -8,5 +8,3 @@
 | masscan     | netcat          | airecrack-ng     | whatweb        | ophcrack            | openvpn                  |
 | netdiscover | tcpdump         | yersinia         | wfuzz          | hashcat             |                          |
 | openVAS     | hping3          | Bully            | apktool        | pdfcrack            |                          |
-|             |                 |                  |                | fcrackzip           |                          |
-|             |                 |                  |                | cewl                |                          |
