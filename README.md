@@ -2,10 +2,10 @@
 **Hello my friend ->This code installs the hacking tools you need very quickly**
 <br>
 
-| List of tools: |
-|----------------|
+| List of tools:              |
+|-----------------------------|
 | 1-nmap         | macchanger |
-| 2-wireshark    |
+| 2-wireshark    | 
 | 3-hydra        |
 | 4-netcat       |
 | 5-fping        |
