@@ -11,4 +11,3 @@ This code installs the hacking tools you need very quickly**
 | netdiscover | tcpdump         | yersinia         | wfuzz          | hashcat             |                          |
 | openVAS     | hping3          | Bully            | apktool        | pdfcrack            |                          |
 
-![t](https://github.com/newamooz/hacking-tools/assets/101067545/60a750fb-2a9a-4e5f-af9f-82a9fd4678f8)
