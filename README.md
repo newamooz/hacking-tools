@@ -2,18 +2,11 @@
 **Hello my friend ->This code installs the hacking tools you need very quickly**
 <br>
 
-| List of tools: |
-|:----------------:|:----------------:|
-| 1-nmap           | 14-tkhunter      |
-| 2-wireshark      | 
-| 3-hydra          |
-| 4-netcat         |
-| 5-fping          |
-| 6-crunch         |
-| 7-sqlmap         |
-| 8-wifite         |
-| 9-john           |
-| 10-yersinia      |
-| 11-ettercap      |
-| 12-whatweb       |
-| 13-macchanger    |
+| Scanners    | Network Tools   | Wireless Tools  | Web Tools      | Password Cracking  | Security and Encryption  |
+|-------------|-----------------|------------------|----------------|---------------------|--------------------------|
+| nmap        | wireshark       | wifite           | nikto          | john                | openssl                  |
+| masscan     | netcat          | airecrack-ng     | whatweb        | ophcrack            | openvpn                  |
+| netdiscover | tcpdump         | yersinia         | wfuzz          | hashcat             |                          |
+| openVAS     | hping3          | Bully            | apktool        | pdfcrack            |                          |
+|             |                 |                  |                | fcrackzip           |                          |
+|             |                 |                  |                | cewl                |                          |
