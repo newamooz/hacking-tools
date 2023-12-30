@@ -12,11 +12,14 @@ This code installs the hacking tools you need very quickly**
 | netdiscover | tcpdump         | yersinia         | wfuzz          | hashcat             |                          |
 | openVAS     | hping3          | Bully            | apktool        | pdfcrack            |                          |
 
-‍‍‍‍```<br>
+‍‍‍‍```
+<br>
 git clone https://github.com/newamooz/hacking-tools.git
 <br>
 cd hacking-tools
+<br>
 pip install -r requirements.txt
+<br>
 python3 hacking-tools.py
 
 ‍‍‍‍```
