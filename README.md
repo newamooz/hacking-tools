@@ -21,6 +21,6 @@ cd hacking-tools
 ‍‍‍‍```
 <br>
 ‍‍‍‍```
-python3 hacking-tools.py
+python3 tools-hacking.py
 ‍‍‍‍```
 
