@@ -14,7 +14,14 @@ This code installs the hacking tools you need very quickly**
 
 ‍‍‍‍```
 git clone https://github.com/newamooz/hacking-tools.git
+‍‍‍‍```
+‍‍‍‍```
 cd hacking-tools
+‍‍‍‍```
+‍‍‍‍```
 pip install -r requirements.txt
+‍‍‍‍```
+‍‍‍‍```
 python3 hacking-tools.py
 ‍‍‍‍```
+
